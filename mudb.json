@@ -1,0 +1,15 @@
+[
+    {
+        "d": 38246153990,
+        "enable": 1,
+        "method": "aes-256-cfb",
+        "obfs": "plain",
+        "passwd": "199836keing..",
+        "port": 2333,
+        "protocol": "auth_aes128_md5",
+        "protocol_param": "5",
+        "transfer_enable": 9007199254740992,
+        "u": 194278425,
+        "user": "keing"
+    }
+]
